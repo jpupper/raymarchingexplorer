@@ -18,6 +18,10 @@ Interaccion.
 
 Este sketch utiliza la clase rendermanager creada por mi para manejar los shaders y subida acá : https://github.com/jpupper/p5shader
 
+Editar el archivo shaders/generative/luzysombra3.frag para cambiar la escena y las cosas. 
+Editar el archivo js/p5obj/luzysombra.js para agregarle uniforms y controlar las variables del manejo de la camara.
+
+
 Muchas gracias a Kali por ayudarme a resolver las rotaciones de la camara. También por enseñarme raymarching y por el shader de bloom que tiene. 
 
 Advertencia : Este codigo puede ser utilizado para todos los fines que se te cante en la medida en que lo cambies lo suficiente como para que las escenas no se noten que son las mismas, si lo subis, distribuis o vendes asi como esta se te pudre todo.
@@ -33,6 +37,10 @@ Interaction.
 - Use W A S D E Q keys for moving the camera arround like a FPS.
 
 This sketch uses the RenderManager class created by myself uploaded to https://github.com/jpupper/p5shader to handle the shaders. 
+
+
+Edit the file shaders/generative/luzysombra3.frag to change the scenes and the things. 
+Edit the file js/p5obj/luzysombra.js to add uniforms and control the camera movement.
 
 Thanks so much to kali for helping me solve the camera rotations, teaching me raymarching and lend me the bloom shader for this one. 
  
