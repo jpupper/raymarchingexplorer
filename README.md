@@ -1,7 +1,9 @@
-# raymarchingexplorer
+# Raymarching Explorer
 
+![200](https://user-images.githubusercontent.com/11019405/177049965-5491c4ab-643e-4611-84a7-2efaf328c367.gif)
 
 Demo at https://mmtt.com.ar/jpupper/nftsapps/raymarchingexplorer/
+
 Directly at fxhash : https://www.fxhash.xyz/generative/15752
 
 
